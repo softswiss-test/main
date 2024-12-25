@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.48d4f22c.css",
+    "main.js": "/static/js/main.504caa9c.js",
+    "static/media/Vectary texture.svg": "/static/media/Vectary texture.a8f08a8b79b9359029fd.svg",
+    "static/media/Group 9.svg": "/static/media/Group 9.24762854977ff3420508.svg",
+    "static/media/1.webp": "/static/media/1.83b8bef9088827e7101f.webp",
+    "static/media/3.webp": "/static/media/3.8be95e3745b49533122b.webp",
+    "static/media/5.webp": "/static/media/5.b68200d077eff4ae3b21.webp",
+    "static/media/2.webp": "/static/media/2.c7c6b54108284d81b05a.webp",
+    "static/media/4.webp": "/static/media/4.c11454c1bde8afbb3bd7.webp",
+    "static/media/logo.svg": "/static/media/logo.f477468d969fbad2b2c4.svg",
+    "static/media/menu closed.svg": "/static/media/menu closed.fa6e328ab6687f8e8080.svg",
+    "static/media/cart colored.svg": "/static/media/cart colored.130703b7b0cf9871648f.svg",
+    "static/media/cart white.svg": "/static/media/cart white.5fdc8f10c95015c32240.svg",
+    "static/media/menu opened.svg": "/static/media/menu opened.60d4f41347544050a7b9.svg",
+    "index.html": "/index.html",
+    "static/media/Ellipse 206.svg": "/static/media/Ellipse 206.ade4a509d9860a09bc42.svg",
+    "static/media/Ellipse 202.svg": "/static/media/Ellipse 202.537a2b27f908edc47311.svg",
+    "static/media/Ellipse 204.svg": "/static/media/Ellipse 204.ae1e8deaa0e087a65661.svg",
+    "main.48d4f22c.css.map": "/static/css/main.48d4f22c.css.map",
+    "main.504caa9c.js.map": "/static/js/main.504caa9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.48d4f22c.css",
+    "static/js/main.504caa9c.js"
+  ]
+}
